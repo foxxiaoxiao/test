@@ -8,3 +8,6 @@ Git has a mutable index called stage.
 Git tracks changes.
 
 gitclone test
+
+Creating a new branch is quick.
+
